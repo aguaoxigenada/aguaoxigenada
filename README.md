@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🎮 Game Dev @ the Edge of Web3
 
-<!--
-**aguaoxigenada/aguaoxigenada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create crypto-native games using **Phaser**, **Unreal Engine**, and **Solana's Anchor framework**.<br/>
 
-Here are some ideas to get you started:
+Obsessed with dopamine loops, on-chain gameplay, and systems that blend **code**, **art**, and **chaos**.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Current Focus
+- ⚡ Real-time games
+- 🤖 AI integrations
+- 🎲 Interactive on-chain economies
+
+> `// Building playful futures, one contract and frame at a time.`
+
+---
+
+🧠 Follow the journey on [X/Twitter](https://x.com/IonizedHydra)  
+💬 Connect or collab? DM me or open an issue in any repo
