@@ -8,7 +8,6 @@ Obsessed with dopamine loops, on-chain gameplay, and systems that blend **code**
 
 ### 🔧 Current Focus
 - ⚡ Real-time games
-- 🤖 AI integrations
 - 🎲 Interactive on-chain economies
 
 > `// Building playful futures, one contract and frame at a time.`
