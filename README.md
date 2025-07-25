@@ -2,8 +2,6 @@
 
 I create crypto-native games using **Phaser**, **Unreal Engine**, and **Solana's Anchor framework**.<br/>
 
-Obsessed with dopamine loops, on-chain gameplay, and systems that blend **code**, **art**, and **chaos**.<br/>
-
 ---
 
 ### 🔧 Current Focus
