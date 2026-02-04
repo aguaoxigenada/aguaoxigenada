@@ -1,4 +1,4 @@
-# 🎮 Game Dev @ the Edge of Web3
+# Game Dev @ the Edge of Web3
 
 I create crypto-native games using **Phaser**, **Unreal Engine**, and **Solana's Anchor framework**.<br/>
 
