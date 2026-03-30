@@ -2,9 +2,10 @@ Game Developer | Interactive Systems & Web3 Economies
 
 I design and build interactive games and real-time systems, focusing on gameplay, player engagement, and scalable architectures. I’ve developed games using Unreal Engine, Unity, Three.js, and Phaser, ranging from fast-paced clickers to competitive multiplayer experiences.
 
-Projects that include blockchain integration are built on Solana (Anchor framework), enabling on-chain features like player-owned assets, betting systems, reward distribution, and secure vaults, connected to gameplay through React interfaces and real-time data flows.
+Projects that include blockchain integration are built on Solana (Anchor framework), enabling on-chain features like player-owned assets, betting systems, reward distribution, and secure vaults, connected to gameplay through React interfaces and real-time data flows. 
 
 Additionally, I’ve built high-performance automation and liquidity management systems for platforms like Raydium, Meteora, and PancakeSwap, emphasizing efficiency, risk control, and system reliability, bridging gameplay with live in-game economies.
+
 ---
 
 ### 🔧 Current Focus
